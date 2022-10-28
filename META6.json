@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides code to help prepare a 'cron' job for Linux hosts",
+  "license": "Artistic-2.0",
+  "name": "CreateCronJob",
+  "perl": "6.d",
+  "provides": {
+    "CreateCronJob": "lib/CreateCronJob.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
