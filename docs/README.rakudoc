@@ -1,0 +1,29 @@
+=begin pod
+
+=head1 NAME
+
+B<CreateCronJob> - Provides code to help prepare a 'cron' job for Linux hosts
+
+=head1 SYNOPSIS
+
+=begin code :lang<raku>
+
+use CreateCronJob;
+
+=end code
+
+=head1 DESCRIPTION
+
+B<CreateCronJob> is ...
+
+=head1 AUTHOR
+
+Tom Browder <tbrowder@acm.org>
+
+=head1 COPYRIGHT AND LICENSE
+
+© 2022 Tom Browder
+
+This library is free software; you may redistribute it or modify it under the Artistic License 2.0.
+
+=end pod
